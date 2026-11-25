@@ -1,29 +1,86 @@
-### Olá, meu nome é Lilian, sou apaixonada por tecnologia ❤
-Estou no 3º Semestre do curso de Analise e Desenvolvimento de Sistemas 💻 
-Decidi seguir minha trajetoria voltada para dados, estou me empenhando muito para aprender ao maximo, e buscando
-um degrau todos os dias.
+# Olá! Eu sou a Lilian Costa 👋
 
-## Sobre Mim 👧
-Atualmente sou Gerente Comercial, minha carreira sempre foi voltada para área de vendas e desafios na minha vida são constantes,
-busco migrar de área, porque hoje posso ter essa oportunidade, e não abro mão. 
-Sou mãe de 2 meninas uma de 13 e uma de 2 anos, minhas princesas que me motivam todos os dias.
+### Tecnologia | Negócios | Dados | Inovação
+
+Sou formada em Análise e Desenvolvimento de Sistemas e possuo experiência profissional na área comercial, com atuação em vendas consultivas, gestão de negócios, prospecção, negociação e relacionamento com clientes.
+
+Minha trajetória une experiência de mercado e conhecimento em tecnologia, permitindo conectar necessidades de negócios a soluções tecnológicas.
+
+Tenho interesse em desenvolvimento de software, análise de dados, inteligência artificial, banco de dados e transformação digital.
+
+Acredito que a tecnologia, quando conectada à visão estratégica de negócios, gera inovação, eficiência e novas oportunidades.
+
+## 🚀 Sobre mim
+
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas.
+- 💼 Experiência em gestão comercial e desenvolvimento de negócios.
+- 💻 Conhecimentos em desenvolvimento de aplicações e programação.
+- 📊 Interesse em análise de dados e ciência de dados.
+- 🤖 Estudos em Inteligência Artificial e computação em nuvem.
+- 🌎 Interesse em oportunidades profissionais que conectem tecnologia, negócios e inovação.
+
+## 💻 Tecnologias e conhecimentos
+
+**Desenvolvimento**
+- JavaScript
+- React Native
+- Node.js
+- HTML5
+- CSS3
+- Java
+
+**Banco de dados**
+- MongoDB
+- MySQL
+- SQL
+
+**Ferramentas**
+- Git e GitHub
+- Visual Studio Code
+- Expo
+- Google Cloud
+
+## 📂 Projetos
+
+### IALLA – Plataforma de Eventos
+
+Projeto acadêmico desenvolvido como projeto final da graduação em Análise e Desenvolvimento de Sistemas.
+
+Plataforma digital voltada à descoberta, divulgação e interação com eventos, conectando usuários e produtores.
+
+**Tecnologias utilizadas:**
+- React Native
+- JavaScript
+- Node.js
+- MongoDB
+
+**Funcionalidades propostas:**
+- Descoberta de eventos.
+- Divulgação de eventos e promoções.
+- Interação entre usuários.
+- Ingressos digitais.
+- Check-in por QR Code.
+- Recursos para produtores de eventos.
+
+🔗 [Acesse o projeto IALLA](https://github.com/Lilian-Csoares/IALLA)
+
+## 🌟 Competências profissionais
+
+- Gestão comercial e desenvolvimento de negócios.
+- Vendas consultivas e negociação.
+- Comunicação e relacionamento interpessoal.
+- Visão estratégica e orientação a resultados.
+- Resolução de problemas.
+- Adaptabilidade e aprendizado contínuo.
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lilian-costa-3ba268144/)
+- 💻 [GitHub](https://github.com/Lilian-Csoares)
+
+
+**Conectando tecnologia, negócios e inovação para construir novas possibilidades.**
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lilian-Csoares)](https://github.com/anuraghazra/github-readme-stats)
-
-## Hard Skills 
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=White)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React-native](https://img.shields.io/badge/React_Native-66cc?style=for-the-badge&logo=React_Native&logoColor=White)
-
-## Soft Skills 
-
-Comunicação Ativa, Liderança, Pró-ativa, Esforçada.
-
-## Contatos ✉
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-costa-3ba268144/)
 [![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:li.csoares23@gmail.com)
