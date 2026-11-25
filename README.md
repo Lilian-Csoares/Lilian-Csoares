@@ -41,12 +41,24 @@ Acredito que a tecnologia, quando conectada à visão estratégica de negócios,
 - Google Cloud
 
 ## 📂 Projetos
+IALLA – Plataforma de Eventos
 
-### IALLA – Plataforma de Eventos
+Projeto acadêmico desenvolvido em grupo como Trabalho de Conclusão de Curso (TCC) da graduação em Análise e Desenvolvimento de Sistemas.
 
-Projeto acadêmico desenvolvido como projeto final da graduação em Análise e Desenvolvimento de Sistemas.
+A IALLA é uma plataforma digital voltada à descoberta, divulgação e interação com eventos, conectando usuários e produtores por meio de soluções tecnológicas.
 
-Plataforma digital voltada à descoberta, divulgação e interação com eventos, conectando usuários e produtores.
+Equipe e responsabilidades:
+
+Layo Santiago: Gestão de Projetos.
+
+Bruno Mota: Desenvolvimento e Programação.
+
+Leticia Diniz: Desenvolvimento Front-end.
+
+Lilian Costa: Modelagem e Desenvolvimento do Banco de Dados.
+
+Objetivo: Desenvolver uma solução digital que facilite a conexão entre pessoas e eventos, proporcionando uma experiência prática e integrada para usuários e produtores.
+
 
 **Tecnologias utilizadas:**
 - React Native
